@@ -1,0 +1,67 @@
+html,
+body {
+    background-color: #f9fafc;
+}
+.text-align-left {
+    text-align: left;
+}
+.text-align-right {
+    text-align: right;
+}
+.text-align-center {
+    text-align: center;
+}
+.text-color-white {
+    color: #fff;
+}
+.text-color-grey {
+    color: #6F7584;
+}
+.mar-top-100 {
+    margin-top: 100px;
+}
+.mar-top-50 {
+    margin-top: 50px;
+}
+.mar-top-20 {
+    margin-top: 20px;
+}
+.mar-top-10 {
+    margin-top: 10px;
+}
+.mar-bottom-100 {
+    margin-bottom: 100px;
+}
+.mar-bottom-50 {
+    margin-bottom: 50px;
+}
+.mar-bottom-20 {
+    margin-bottom: 20px;
+}
+.mar-bottom-10 {
+    margin-bottom: 10px;
+}
+.home-heading {
+    height: 300px;
+    background-color: #5FAE94;
+}
+.home-introduction {
+    height: 800px;
+    background-color: #72C7DC;
+}
+.home-technologies-i-know {
+    background-color: #54C0A6;
+}
+.custom-header {
+    background-color: #304452;
+    color: #fff;
+}
+.custom-position-fixed {
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+}
+.text-color-white {
+    color: #fff !important;
+}
