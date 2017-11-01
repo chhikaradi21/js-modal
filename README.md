@@ -14,17 +14,17 @@ AngularJS 4, MongoDB, Bootstrap 4, Node Express, Angularjs CLI, JQuery.
 As explained it is written in pure JS. Its file is in src/assets/modal.js
 This modal is invoked from any page and you can fill form on this modal. This form data can be submitted to store data in MongoDB using NodeJS. On saving data it refreshes the page to load newly created data.
 How it works:-
-`
-<button type="button"
+
+    <button type="button"
         class="btn btn-primary btn-sm"
         data-toggle="modal"
         data-target="#user-modal">Add New Records
-</button>
-`
+    </button>
+
 
 ### JS Source Code
 
-`
+
     (function () {
     
     // ajax code
@@ -99,7 +99,7 @@ How it works:-
         addNewRecordAjax(formData, scb, fcb);
     });
     })();
-`
+
 
 ### How to run on local
 Follow these steps
